@@ -1,2 +1,2 @@
 # research_agent
-an llm based agent for autmated tasks 
+an llm based agent for automated tasks 
